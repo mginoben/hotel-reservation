@@ -1,0 +1,49 @@
+@font-face {
+	src: url(font/lingua.ttf);
+	font-family: lingua
+}
+
+body {
+	background-color: #FEE191;
+}
+
+#home_img {
+    filter: brightness(50%);
+}
+
+nav {
+	background-color: #E84258;
+}
+
+.base-font {
+	font-family: lingua;
+}
+
+#toggleMobileMenu ul li a {
+	color: white;
+	font-style: italic;
+}
+
+#brand {
+	font-family: lingua
+}
+
+#submit_btn {
+	background-color: #FD8060;
+	border-color: #FD8060;
+}
+
+#submit_btn:hover {
+	background-color: #e67457;
+	border-color: #e67457;
+}
+
+.maintxt {
+    background-image: url(img/home_img.jpg);
+    background-size: cover;
+    height: 600px;
+    padding-top: 250px;
+    font-size: 60px;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+}
