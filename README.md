@@ -5,6 +5,6 @@ This website was developed using PHP language, HTML/CSS, and Bootstrap 5 for web
 
 ### Program processes:
 - User reservation
-- Transaction Computation
+- Transaction computation
 - Online receipt printing 
 
